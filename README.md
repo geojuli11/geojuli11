@@ -2,6 +2,7 @@
 - I'm student of Geology
 - I'm interested in learning ways to make codes according to my major
 - 💞️ I’m fluent in Spanish and English, currently learning French
+- If you wanna share knowledge, contact me on: mariajuchaconp@gmail.com
 
 <!---
 geojuli11/geojuli11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
